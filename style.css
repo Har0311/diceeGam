@@ -33,7 +33,7 @@ body{
     padding: 5px 28px 5px 25px;
     border: dotted #009dff 8px;
     text-decoration: none;
-    margin-left:12cm;
+    margin-left: 26%;
   }
   
 .btn1:hover {
@@ -63,7 +63,7 @@ body{
     padding: 5px 28px 5px 25px;
     border: dotted #009dff 8px;
     text-decoration: none;
-    margin-left: 6.23cm;
+    margin-left: 22.5%;
 }
   
 .btn2:hover {
@@ -79,20 +79,32 @@ body{
 
 img.spic1{
     position: absolute;
-    margin-left: 12cm;
-    margin-top:2cm;
-    border-radius: 5mm;
-    
+    margin-left: 26%;
+    margin-top: 7%;
+    border-radius: 10%;
 }
+
 img.spic2{
     position: absolute;
-    margin-left: 23cm;
-    margin-top:2cm;
-    border-radius: 5mm;
+    margin-left: 60%;
+    margin-top: 7%;
+    border-radius: 10%;
+}
+
+.top-container{
+    background-color: rgb(253, 88, 154);
+    width: 100%;
+    height: 100%;
+}
+
+.bottom-container{
+    background-color: rgb(253, 88, 154);
+    width: 100%;
+    height: 500%;
 }
 
 footer{
-    margin-top: 22rem;
+    margin-top: 26%;
     text-align: center;
     text-decoration: underline;
     color: gold;
